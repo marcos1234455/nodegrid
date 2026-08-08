@@ -8,7 +8,7 @@ NodeGrid::execute(string $jobid, string $script): Used for sending execute reque
 
 We are working for other functions like closing all jobs... etc. Stay tuned...
 
-#how to set up
+# how to set up
 if you set up a composer project already. use this bash:
 ```
 composer require node/nodegrid
