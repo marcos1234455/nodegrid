@@ -1,0 +1,17 @@
+{
+    "name": "node/nodegrid",
+    "description": "PHP package i made for fun to send soap requests to RCCService/RBXGS",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Node\\NodeGrid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcos",
+            "email": "marcos@node08.xyz"
+        }
+    ],
+    "require": {}
+}
