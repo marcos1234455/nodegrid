@@ -1,6 +1,6 @@
 # nodegrid
 PHP package i made for fun to send soap requests to RCCService/RBXGS
-# classes
+# methods
 
 NodeGrid::OpenJob(string $script, string $jobid, int $jobExpiration): Used for sending a SoapAction with type OpenJob.
 NodeGrid::execute(string $jobid, string $script): Used for sending execute requests to RCCService. this requires an open Job in your RCCService console.
